@@ -19,6 +19,6 @@
 ## output
  Your emulator should be displaying the following output:
  
- ![](https://github.com/srijanabhusal/image-loader/blob/master/image_loader.PNG)
+ ![](https://github.com/srijanabhusal/fluter-grid-view/blob/master/grid_view.PNG)
 
  
