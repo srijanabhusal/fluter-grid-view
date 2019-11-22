@@ -1,4 +1,4 @@
-  # Image Loader 
+  # Flutter grid view
 
    This app allows you to dispaly grid view in your app. This step shall prove to be undoubtly important in further steps of application developments. 
  
